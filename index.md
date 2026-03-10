@@ -1,8 +1,6 @@
 ---
-title: This is my journey in the labor sector but also in life generally
+title: Track general goals
 ---
-
-# Track general goals:
 
 - [x] Be good and positive in life
 1. One step each time, I'm not in hurry
